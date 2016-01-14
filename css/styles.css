@@ -23,6 +23,7 @@ h3 {
   background-color: rgba(65, 155, 165, 0.72);
   border-color: #000000;
   text-align: center !important;
+  clear: left;
 }
 
 .btn:hover {
