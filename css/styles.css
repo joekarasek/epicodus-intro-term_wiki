@@ -35,3 +35,13 @@ h3 {
   background-color: #CACACA;
   padding: 10px 0px;
 }
+
+th td {
+  padding: 0px 10px;
+  display: block;
+  /*border: solid grey 1px;*/
+}
+
+table {
+  /*border: solid grey 1px;*/
+}
