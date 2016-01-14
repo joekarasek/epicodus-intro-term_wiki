@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  font-weight: bold;
+  font-size: 3em;
+  color: #BB5E67;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  margin-top: 40px;
+  border-bottom: solid #CECECE 1px;
+  padding-bottom: 2px;
+  margin-left: -20px;
+}
+
+.btn {
+  margin: 40px 100px;
+  display: block;
+  background-color: rgba(65, 155, 165, 0.72);
+  border-color: #000000;
+  text-align: center !important;
+}
+
+.btn:hover {
+  background-color: #BB5E67;
+}
