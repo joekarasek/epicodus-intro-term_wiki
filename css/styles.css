@@ -45,3 +45,20 @@ th td {
 table {
   /*border: solid grey 1px;*/
 }
+
+ul#homeList>li {
+  font-size: 20px;
+  text-decoration: underline;
+  font-family: fantasy;
+}
+
+ul#homeList {
+  text-align: center;
+  list-style-type: none;
+  margin-top: 50px;
+}
+
+p#homeHeaderP {
+  font-size: 15px;
+  text-align: center;
+}
