@@ -1,0 +1,18 @@
+Is the Github documentation - commits and README - thorough and descriptive?
+Could use a few more commits, but present commits are well done.
+The README is great!
+
+Is the code easy to read (good indentation, spacing, naming)?
+The documents have great commenting, and are easy to read.
+
+Were branching and looping used effectively?
+Could use more JavaScript functionality.
+
+Is the web page(s) styled using Bootstrap and CSS?
+Not much Bootstrap, but excellent custom CSS!
+
+Is the site user-friendly?
+Great use of examples that actually show how the concept works.
+
+Do you have any additional constructive criticism or positive feedback to share?
+Not Papyrus! Never papyrus.
